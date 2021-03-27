@@ -1,0 +1,14 @@
+{
+  "name": "swerix",
+  "version": "0.0.1",
+  "description": "",
+  "main": "shard.js",
+  "scripts": {
+    "test": "node shard.js"
+  },
+  "author": "Baran",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
